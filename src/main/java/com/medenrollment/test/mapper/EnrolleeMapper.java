@@ -1,4 +1,4 @@
-package com.medenrollment.mapper;
+package com.medenrollment.test.mapper;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
